@@ -1,0 +1,14 @@
+PODS:
+  - FlowBarButtonItem (0.1.0)
+
+DEPENDENCIES:
+  - FlowBarButtonItem (from `../`)
+
+EXTERNAL SOURCES:
+  FlowBarButtonItem:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlowBarButtonItem: 9a10ffb5fc9061352ed968a758db23bf9dff9a87
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,6 @@
+framework module FlowBarButtonItem {
+  umbrella header "FlowBarButtonItem-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "FlowBarButtonItem",
+  "version": "0.1.0",
+  "summary": "A short description of FlowBarButtonItem.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/FlowBarButtonItem",
+  "license": "MIT",
+  "authors": {
+    "Tomoya Hirano": "tomoya.hirano@dena.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/FlowBarButtonItem.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "FlowBarButtonItem": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
