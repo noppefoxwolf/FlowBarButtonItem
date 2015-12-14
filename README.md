@@ -17,7 +17,20 @@ FlowBarButtonItem is available through [CocoaPods](http://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
+use_frameworks!
 pod "FlowBarButtonItem"
+```
+
+## How to use.
+
+```swift
+import FlowBarButtonItem
+```
+
+```swift
+let right = FlowBarButtonItem(image: UIImage(named: "image"), style: .Done, target: self, action: "rightAction:")
+navigationItem.rightBarButtonItem = right
+right.enableFlow()
 ```
 
 ## Author
