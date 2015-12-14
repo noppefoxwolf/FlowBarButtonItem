@@ -1,5 +1,8 @@
 # FlowBarButtonItem
 
+![](https://raw.githubusercontent.com/noppefoxwolf/FlowBarButtonItem/master/Example/sample.gif)
+
+
 [![CI Status](http://img.shields.io/travis/Tomoya Hirano/FlowBarButtonItem.svg?style=flat)](https://travis-ci.org/Tomoya Hirano/FlowBarButtonItem)
 [![Version](https://img.shields.io/cocoapods/v/FlowBarButtonItem.svg?style=flat)](http://cocoapods.org/pods/FlowBarButtonItem)
 [![License](https://img.shields.io/cocoapods/l/FlowBarButtonItem.svg?style=flat)](http://cocoapods.org/pods/FlowBarButtonItem)
