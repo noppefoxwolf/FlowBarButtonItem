@@ -1,6 +1,6 @@
 # FlowBarButtonItem
 
-![](https://raw.githubusercontent.com/noppefoxwolf/FlowBarButtonItem/master/Example/sample.gif)
+![](https://raw.githubusercontent.com/noppefoxwolf/FlowBarButtonItem/master/sample.gif)
 
 
 [![CI Status](http://img.shields.io/travis/Tomoya Hirano/FlowBarButtonItem.svg?style=flat)](https://travis-ci.org/Tomoya Hirano/FlowBarButtonItem)
