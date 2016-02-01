@@ -1,4 +1,5 @@
 # FlowBarButtonItem
+Bar Button Item that can be moved anywhere in the screen, like Android's stickers button.
 
 ![](https://raw.githubusercontent.com/noppefoxwolf/FlowBarButtonItem/master/sample.gif)
 
